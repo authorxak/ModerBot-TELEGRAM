@@ -1,0 +1,2 @@
+token=YOUR_TOKEN_BOT
+id=YOUR_ID
